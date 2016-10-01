@@ -17,7 +17,7 @@ $ python manage.py collectstatic
 $ gunicorn gettingstarted.wsgi
 ```
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+Your app should now be running on [localhost:8000](http://localhost:8000/).
 
 ## Deploying to EvenNode
 
